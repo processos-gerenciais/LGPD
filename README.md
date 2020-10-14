@@ -13,3 +13,6 @@ Possui como atribuições: a) aceitar reclamações e comunicações dos titular
 - Proceder transferência internacional (art. 33 a 36)
 - Atuar sobre incidente de segurança (art. 48 e 50)
 - Elaborar Relatório de Impacto à Proteção de Dados Pessoais (art. 10 e 38)
+
+## Checklist de atividades para a adequação da organização à LGPD (1a versão, preliminar)
+https://checklist.com/adequacao-da-organizacao-a-lgpd/
